@@ -1,0 +1,2 @@
+Y:\Programming\Projects\Pr2.2\Debug\Pr2.2.exe
+Y:\Programming\Projects\Pr2.2\Debug\Pr2.2.pdb
